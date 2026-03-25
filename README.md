@@ -1,2 +1,2 @@
-# Gecko_Visual_Data_Analysis
+# Gecko Visual Data Analysis
 Data Analytics Portfolio
